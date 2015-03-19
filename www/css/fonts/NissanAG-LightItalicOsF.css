@@ -1,0 +1,12 @@
+/* Webfont: NissanAG-LightItalicOsF */@font-face {
+    font-family: 'NissanAGLightOsF';
+    src: url('NissanAG-LightItalicOsF.eot'); /* IE9 Compat Modes */
+    src: url('NissanAG-LightItalicOsF.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('NissanAG-LightItalicOsF.woff') format('woff'), /* Modern Browsers */
+         url('NissanAG-LightItalicOsF.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('NissanAG-LightItalicOsF.svg#NissanAG-LightItalicOsF') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

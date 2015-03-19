@@ -1,0 +1,149 @@
+
+
+header{
+    background: url(../img/bg-header.png) center center no-repeat;
+    height: 50%;
+    
+    @mixin texts{
+          width: 340px;
+          font-size: 29px;
+          padding: 3%;
+          padding-bottom: 20px;
+          padding-top: 20px;
+    }
+
+    .text1{
+        @include texts();
+        @include rotate(-5);
+        margin-top: 32%;
+    }
+    .text2{
+        @include texts();
+        width: 300px;
+        margin-top: 15px;
+    }
+}
+
+
+nav.navDesktop{
+    
+    .wrapMenu{
+        width: 100%;
+        ul{
+            li{
+                font-size: 12px;
+                padding: 0 7px;
+                
+            }
+
+        }
+    }
+}
+
+main{
+    .explainText{
+          padding-top: 8%;
+        p{
+            position: relative;
+            width: 75%;
+
+            left: 50%;
+            -webkit-transform: translate3d(-50%,0,0);
+                    transform: translate3d(-50%,0,0);
+        }
+
+        .features{
+            width: 100%;
+            .feature{
+                width: 20%;
+                .text{
+                    font-size:14px;
+                    width: 100px;
+                    margin-left: -50px;
+                }
+            }
+
+        }
+    }
+
+    .awesomework{
+        .tit {
+          padding-top: 75px;
+        }
+        .text{
+
+        }
+        .filters{
+            margin-top: 40px;
+            ul{
+                width: 70%;
+                
+
+                li {
+                    margin-bottom: 20px;
+                    
+                }
+            }
+        }
+        .imgsFilters{
+            margin-top: 30px;
+            ul{
+                width: 97%;
+            }   
+
+        }   
+
+    }
+
+    .getInTouch{
+        form{
+            width: 80%;
+            
+            input{
+                width: 94%;
+                height: 35px;
+                
+
+            }
+            input.email {
+              float: none;
+            }
+            input.numbers {
+              float: none;
+            }
+            textarea{
+                width: 92%;
+                float: none;
+            }
+            
+        }
+        .contactInfo{
+            margin-top: 70px;
+            width: 100%;
+            height: 380px;
+            
+            div{
+                width: 26%;
+            }
+            
+            
+            .phone{
+              margin-left: 19%;
+                margin-top: 10%;
+            }
+            
+            .website{
+                margin-top: 10%;
+            }
+            
+
+        }
+
+    }
+
+}
+
+footer{
+    height: 350px;
+}
+

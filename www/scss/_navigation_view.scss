@@ -1,0 +1,23 @@
+.MainView {
+	.BackgroundView {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+		background-color: #2a292a;
+
+		.container {
+			width: 15000px;
+			height: 9000px;
+			-webkit-transform: translate3d(0px,0px,0px);
+
+			.pice {
+				width: 1500px;
+				height: 900px;
+				background-color: #ff0000;
+				float: left;
+			}
+		}
+	}
+}

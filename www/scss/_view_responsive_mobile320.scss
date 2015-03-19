@@ -1,0 +1,175 @@
+html, body {
+  height: 102%;
+  overflow-x: hidden;
+}
+
+.mobile{
+    display:block !important;
+}
+.desktop{
+    display:none !important;
+}
+
+
+
+header {
+    height: 182px;
+    background-size: 100%;
+   .text1{
+      margin-top: 42%;
+      width: 240px;
+      font-size: 19px;
+      padding: 3%;
+      padding-bottom: 10px;
+      padding-top: 10px;
+   }
+   .text2{
+      margin-top: 15px;
+      width: 240px;
+      font-size: 19px;
+      padding: 3%;
+      padding-bottom: 10px;
+      padding-top: 10px;
+   }
+}
+
+
+
+
+main{
+
+    .explainText{
+        padding-top: 25%;
+        
+        .features{
+            
+            .feature{
+                .title{
+                    font-size: 18px;
+                    height: auto;
+                    line-height: 20px;
+                    margin-bottom: 0;
+                    float: left;
+                    width: 50%;
+                    text-align: left;
+                }
+                .text{
+                    text-align: left;
+                    height: auto;
+                    width: 60%;
+                    left: 0;
+                    margin-left: 0;
+                    float: left;
+                }
+            }
+            .ico1{.ico{width: 39%;}}
+            .ico2{.ico{width: 39%;}}
+            .ico3{.ico{width: 39%;}}
+            .ico4{.ico{width: 39%;}}
+            .ico5{.ico{width: 39%;}}
+
+
+        }
+    }
+
+
+    .awesomework{
+        .tit{
+            width: 100%;
+            text-align:center;
+            width: 100%;
+            -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+            left: 0;
+            position: relative;
+            font-size: 28px;
+  
+        }
+        .text{
+              width: 90%;
+        }
+        .filters{
+            margin-top: 60px;
+            ul{
+                width:89%;
+            }
+        }
+        .imgsFilters{
+            margin-top: 39px;   
+            ul{
+                width: 82%;
+            }   
+        }   
+    }
+
+
+
+
+
+ .getInTouch {
+        .tit{
+            padding-top: 50px;
+        }
+        .text{
+            width: 95%;
+            margin-bottom: 20px;
+        }
+
+        form {
+            width: 90%;
+            left: 2%;
+            -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+            textarea {
+                width: 89%;
+            }
+        }
+        
+        .contactInfo {
+            height: 680px;
+
+             div {
+                  width: 55%;
+                  float: none;
+                  padding-right: 0;
+                  padding-left: 0;
+                  text-align: center;
+                  padding-top: 50px;
+                  margin: 0 auto;
+                  margin-top: 50px;
+            }
+            .phone{
+              margin-left: 0;
+              margin: 0 auto;
+                margin-top: 50px;
+            }
+            
+            .website{
+                margin: 0 auto;
+                margin-top: 50px;
+
+            }
+        }
+    }
+
+}
+
+
+
+
+footer{
+      height: auto;
+
+      .social {
+        height: auto;
+        padding-bottom: 50px;
+        div {
+            width: 50px;
+            float: none;
+            left: 50%;
+            position: relative;
+            margin-left: -25px;
+            margin-bottom: 25px;
+        }
+    }
+}

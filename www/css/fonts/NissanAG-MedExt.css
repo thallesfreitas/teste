@@ -1,0 +1,12 @@
+/* Webfont: NissanAG-MedExt */@font-face {
+    font-family: 'NissanAGExp2';
+    src: url('NissanAG-MedExt.eot'); /* IE9 Compat Modes */
+    src: url('NissanAG-MedExt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('NissanAG-MedExt.woff') format('woff'), /* Modern Browsers */
+         url('NissanAG-MedExt.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('NissanAG-MedExt.svg#NissanAG-MedExt') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

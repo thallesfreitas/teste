@@ -1,0 +1,59 @@
+
+nav.navDesktop{
+    .wrapMenu{
+        width: 98%;
+    }
+}
+
+section{
+    width: 100%;
+}
+
+main{
+    .explainText{
+        padding-top: 8%;
+        p{
+            font-size: 20px;
+        }
+
+        .features{
+            width: 98%;
+        }
+    }
+
+    .awesomework{
+        .tit {
+          padding-top: 100px;
+        }
+        .imgsFilters{
+            ul{
+                width: 94%;
+            }   
+        }   
+    }
+    .getInTouch{
+        
+
+        form{
+        
+            textarea{
+                width: 93%;
+            }
+
+        }
+        .contactInfo{
+            width: 90%;
+            margin-top: 70px;
+            
+
+            div{
+                width: 16%;
+                margin-right: 17px;
+                margin-left: 17px;
+            }
+
+        }
+
+    }
+
+}

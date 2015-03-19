@@ -1,0 +1,1302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_tem",
+				"get_template_part"
+			],
+			[
+				"ready",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"_men",
+				"_menu-fixed"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"toa",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"_show",
+				"_show-search"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"pag",
+				"pageName"
+			],
+			[
+				"remv",
+				"removeClass	.removeClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"image",
+				"image:Header"
+			],
+			[
+				"volme",
+				"volumeBar"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"translate",
+				"translate3d"
+			],
+			[
+				"first",
+				"firstBubble"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"get_content",
+				"stream_get_contents"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"get_pos",
+				"get_posts"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"dis",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"mer",
+				"Emmet: Merge Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"upda",
+				"Emmet: Update Image Size"
+			],
+			[
+				"up",
+				"Emmet: Update Image Size"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"auo",
+				"Autoprefix CSS"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"header",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"hea",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"aur",
+				"Autoprefix CSS"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"upd",
+				"Emmet: Update Image Size"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"foo",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"tum",
+				"Set Syntax: Tumblr"
+			],
+			[
+				"footer",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"commer",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"set ",
+				"Set Syntax: Tumblr"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remvo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"comm",
+				"SVN: Commit…"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"beu",
+				"HTMLBeautify"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"editor",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"svn st",
+				"SVN: Status"
+			],
+			[
+				"svn add ",
+				"SVN: (File) Add"
+			],
+			[
+				"svn add",
+				"SVN: (File) Add"
+			],
+			[
+				"svn ",
+				"SVN: Info"
+			],
+			[
+				"svn",
+				"SVN: Log"
+			],
+			[
+				"ima",
+				"Emmet: Update Image Size"
+			],
+			[
+				"image",
+				"Emmet: Update Image Size"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"table",
+				"Snippet: <table>"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"script",
+				"Snippet: <script>"
+			],
+			[
+				"sest html",
+				"Set Syntax: HTML"
+			],
+			[
+				"prew",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/Jobs/LewLaraTBWA/Nissan/newversa2015/base.sublime-project",
+		"/Applications/MAMP/htdocs/Jobs/LewLaraTBWA/Nissan/newversa2015/base.sublime-workspace",
+		"/Applications/MAMP/htdocs/Jobs/www/base.sublime-project",
+		"/Applications/MAMP/htdocs/Jobs/www/www/scss/style.scss",
+		"/Applications/MAMP/htdocs/Jobs/www/www/css/style.css",
+		"/Applications/MAMP/htdocs/Jobs/www/scss/style.scss",
+		"/Applications/MAMP/htdocs/Jobs/www/.gitignore",
+		"/Users/isaaceliape/Downloads/www/.gitignore",
+		"/Users/isaaceliape/Downloads/www/gulpfile.js",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/_home.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/conforto-e-conveniencia.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/conforto.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/copa-troller-sem-inscricao.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/copa-troller.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/copa_troller/index.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/mundo-off-road-primeira-visita.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/home.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/home-launch.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/home-.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/home--.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/design.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/copa-troller-t4/js/main.js",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/imagens/main.js",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/js/main.js",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/js/main2-bkp",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/copa-troller-t4/js/main2.js",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/copa-troller-t4/css/topov2.css",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/includes/menutopo.phpBKP",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/includes/_menutopo.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/acessorios.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/views/acessorios",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/config/database.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/wordpress/wp-config.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/controllers/design.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/config/constants.php",
+		"/Applications/MAMP/htdocs/Jobs/jwt/Troller/2014_28_29_Troller/application/trunk/production/cdata/application/controllers/calendario.php",
+		"/Applications/MAMP/htdocs/Jobs/notpog/wp-config.php",
+		"/Users/isaaceliape/.bash_profile",
+		"/Applications/MAMP/htdocs/Jobs/notpog/readme.html",
+		"/Applications/MAMP/htdocs/Jobs/notpog/index.php",
+		"/root/.ssh/known_hosts",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_v1.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/single.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_9.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/lang/pt_BR.po",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/js/media/jquery.js",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/js/scrollReveal.js",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/js/scripts.js",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/style.css",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-config.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/css/responsive.css",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/header.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_element_sidr_open.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/dynamic_css.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_single_multi.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/lang/default.po",
+		"/Users/isaaceliape/Downloads/themeforest-8987445-scene-magazine-theme-for-wordpress/Theme/scene/lang/default.po",
+		"/Users/isaaceliape/Downloads/themeforest-8987445-scene-magazine-theme-for-wordpress/Theme/scene/lang/da_DK.po",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/lang/da_DK.po",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_post_pagination.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/index.html",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/functions/functions_custom.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/comments.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/framework/fw_option.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/searchform.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/options/options_post.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/options/options_post_control.php",
+		"/Users/isaaceliape/Downloads/themeforest-8987445-scene-magazine-theme-for-wordpress/Content/content.xml",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_element_primary.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_search.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_archive.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_paginate_links.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/category.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/footer.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/post_on_categ.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/page-loading-more.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_27.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_archive_header.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_element_social.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/index.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/page.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_single.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/inc/options/options_frame.php",
+		"/Applications/MAMP/htdocs/Jobs/Forbes/website/wp-content/themes/scene/page-sidebar.php",
+		"/Applications/MAMP/htdocs/Jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/img/facebook.svg",
+		"/Users/isaaceliape/Downloads/PSDs/Ariel/Ariel_Esfregatite/fonte/din1/DIN_font/stylesheet.css",
+		"/Applications/MAMP/htdocs/Jobs/LewLaraTBWA/Nissan/Versa2015/2015_81_001_Nissan_Versa_2015/application/trunk/www/index.php",
+		"/Applications/MAMP/htdocs/Jobs/LewLaraTBWA/Nissan/Versa2015/2015_81_001_Nissan_Versa_2015/application/trunk/www/css/style.css",
+		"/Users/isaaceliape/Library/Application Support/Sublime Text 2/Packages/Dracula Color Scheme/Dracula.tmTheme.cache",
+		"/Applications/MAMP/htdocs/jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/js/main.js",
+		"/Applications/MAMP/htdocs/jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/css/style.css",
+		"/Applications/MAMP/htdocs/jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/index.html",
+		"/Applications/MAMP/htdocs/Jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/img/icon-facebook.svg",
+		"/Users/isaaceliape/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/isaaceliape/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/isaaceliape/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/isaaceliape/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/Context.sublime-menu",
+		"/Applications/MAMP/htdocs/Jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/base.sublime-workspace",
+		"/Applications/MAMP/htdocs/jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/base.sublime-project",
+		"/Applications/MAMP/htdocs/jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/base.sublime-workspace",
+		"/Applications/MAMP/htdocs/Jobs/index.html",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_element_sidr_open.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/css/responsive.css",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/js/owl-carousel/owl.carousel.css",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/style.css",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_search.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/js/scripts.js",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_v1.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/header.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/css/mosaic.css",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/css/boxed.css",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/functions.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/inc/templates/header/template_header_element_primary.php",
+		"/Applications/MAMP/htdocs/Jobs/teste.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/index.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/js/jquery.sidr.js",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/css/composer-theme-style.css",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/css/jquery.sidr.light.css",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/inc/templates/dynamic_css.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/inc/templates/template_single.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/single.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/inc/functions/functions_custom.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/searchform.php",
+		"/Applications/MAMP/htdocs/jobs/Forbes/website/wp-content/themes/scene/watch.sh",
+		"/Applications/MAMP/htdocs/jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/tumblrTheme.html",
+		"/Applications/MAMP/htdocs/Jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/teste.css",
+		"/Applications/MAMP/htdocs/jobs/Fnazca/Ariel/TumblrAriel/2015_85_001_Ariel/application/trunk/localVersion/thimble/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"$(document).ready(function(){\n    $('.destaque .bx-wrapper').mouseenter(function () {\n    $('.destaque .bx-prev').stop().fadeIn(\"300\");\n    $('.destaque .bx-next').stop().fadeIn(\"300\");\n  });\n  $('.destaque .bx-wrapper').mouseleave(function () {\n    $('.destaque .bx-prev').stop().fadeOut(\"100\");\n    $('.destaque .bx-next').stop().fadeOut(\"100\");\n  });\n});",
+			"",
+			"*.php",
+			"",
+			"*.scss",
+			"-*.css, -*.html , -wp-admin/*, -wp-includes/*",
+			"-*.css, -*.html , -wp-admin/*",
+			"-*.css, -*.html , -/wp-admin/*",
+			"-*.css, -*.html",
+			"-*.css",
+			"-*.css, -*.php, -*.js,-/wp-admin",
+			"-*.css, -*.php, -*.js,-*./wp-admin",
+			"-*.css, -*.php, -*.js",
+			"-*/wp-admin,-*.css,-*.php,-*.js",
+			"-*/wp-admin,-*.css,-*.php",
+			"-*/wp-admin, -*/.css, -*/.php",
+			"-*/wp-admin, -*/.css",
+			"-*/wp-admin",
+			"*/wp-admin",
+			"-*.css, */wp-admin",
+			"",
+			"-*.css,*/wp-admin",
+			"-*.css",
+			"*.scss",
+			"",
+			"-*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addNextPage",
+			"$(document).ready(function(){\n    $('.destaque .bx-wrapper').mouseenter(function () {\n    $('.destaque .bx-prev').fadeIn(\"300\");\n    $('.destaque .bx-next').fadeIn(\"300\");\n  });\n  $('.destaque .bx-wrapper').mouseleave(function () {\n    $('.destaque .bx-prev').fadeOut(\"100\");\n    $('.destaque .bx-next').fadeOut(\"100\");\n  });\n});",
+			".fade",
+			".bx-prev",
+			".bx-controls-direction",
+			"$('.bx-controls-direction",
+			".bx-controls-direction",
+			".fade",
+			".fad",
+			".fadeI",
+			".fade",
+			"$('.bgCompre')",
+			"bgCompre",
+			".fade",
+			".boxConheca",
+			".fadeIn",
+			".fadeInd",
+			"swf",
+			".fadeIn",
+			"fadein",
+			".fade",
+			"#menu-superior",
+			"menu-superior",
+			".boxCopa",
+			"boxCopa",
+			"copa-troller-t4",
+			"Cobertura",
+			"msgstr",
+			"logo-forbes",
+			"context",
+			"jQuery.ajax({",
+			"ajax",
+			"window.on",
+			"scrollReveal",
+			"window.scroll",
+			"768",
+			"#navigation",
+			".post-header-area.nav-container nav",
+			"0",
+			".post-header-area ul#nav > li, .post-header-area.nav-container nav > ul > li",
+			".post-header-area.nav-container nav > ul > li",
+			".post-header-area ul#nav > li,\n.post-header-area.nav-container nav > ul > li",
+			".post-header-area ul#nav > li, .post-header-area.nav-container nav > ul > li",
+			"ul > li {",
+			"ul > li",
+			".post-header-area.nav-container nav > ul > li",
+			"#navigation .btn-search",
+			"#navigation",
+			"navigation",
+			".post-header-area.nav-container nav ul",
+			".outter-wrapper.post-header-area, .post-header-area #navigation, .post-header-area.nav-container, .post-header-area.nav-container nav ul",
+			"navigation",
+			"btn-search",
+			"#navigation li a, .nav-container li a",
+			"important",
+			".outter-wrapper.header-area",
+			"FINAL CALL CSS",
+			"<script type='text/javascript' src='http://localhost:8888/Jobs/Forbes/website/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>",
+			".menu-item a",
+			"FINAL CALL CSS",
+			"DENIS",
+			"ALTERAÇÃO DENIS 20/11/2014",
+			"/* ALTERAÇÃO DENIS 20/11/2014 */",
+			".menu-item",
+			"!important",
+			"vw!important;",
+			"1.2vw!important;",
+			"vw",
+			"1.2vw!important;",
+			".post-header-area.nav-container nav ul > li > a",
+			".post-header-area.nav-container nav > ul > li",
+			".post-header-area ul#nav > li, .post-header-area.nav-container nav > ul > li",
+			".post-header-area ul#nav > li,.post-header-area.nav-container nav > ul > li",
+			".post-header-area ul#nav > li, .post-header-area.nav-container nav > ul > li",
+			"navigation .nav",
+			"#navigation .nav > ul > li, .nav-container nav ul > li",
+			".menu-item a",
+			"#navigation li a, .nav-container li a",
+			"anter",
+			"pró",
+			"Prev post",
+			"Pró",
+			"NEXT POST",
+			"PREV POST",
+			"<a href='#'><img src='http://forbes.com.br/wp-content/themes/scene/img/ads/468x60.png' alt='Ad' /></a>",
+			".po'",
+			".po\"",
+			".po ",
+			".po",
+			"what",
+			"busca",
+			"procura",
+			"Wha are you",
+			"Wha",
+			"_e(",
+			"_e",
+			"n _e (",
+			"n _e(",
+			"_e(",
+			"PREV POST",
+			"prev",
+			"Next post",
+			"functions_custom.php:911",
+			"functions_custom.php",
+			"What are you looking for?",
+			"What are you looking for",
+			"What are you looking for?",
+			"Your email address will not be published",
+			"msgstr",
+			"msgid",
+			"Next \"",
+			"\"Next \"",
+			"Next ",
+			"wrapper-nav",
+			"sticky-header-wrapper",
+			"canon_options_post",
+			"What are you looking for",
+			"What are you looking f",
+			"hat are you loo",
+			"What are you looking for?",
+			"placeholder=\"What are you looking for?\"",
+			"sear",
+			"What are you",
+			"What are you looking",
+			"What are you looking for",
+			"what are you",
+			"What are you looking",
+			"What are you looking for"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$(document).ready(function(){\n    $('.destaque .bx-wrapper').mouseenter(function () {\n    $('.destaque .bx-prev').stop().fadeIn(\"300\");\n    $('.destaque .bx-next').stop().fadeIn(\"300\");\n  });\n  $('.destaque .bx-wrapper').mouseleave(function () {\n    $('.destaque .bx-prev').stop().fadeOut(\"100\");\n    $('.destaque .bx-next').stop().fadeOut(\"100\");\n  });\n});",
+			"$gf_gray"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"controldesi",
+				"application/controllers/design.php"
+			],
+			[
+				"design",
+				"application/views/design.php"
+			],
+			[
+				"html",
+				"readme.html"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"wp-con",
+				"wp-config.php"
+			],
+			[
+				".po",
+				"lang/pt_BR.po"
+			],
+			[
+				"css",
+				"inc/templates/dynamic_css.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"template_post_pagination.php",
+				"inc/templates/template_post_pagination.php"
+			],
+			[
+				"functions_custom.php",
+				"inc/functions/functions_custom.php"
+			],
+			[
+				"comments.php",
+				"comments.php"
+			],
+			[
+				"template_single_multi.php",
+				"inc/templates/template_single_multi.php"
+			],
+			[
+				"options",
+				"inc/options/options_post.php"
+			],
+			[
+				"sear",
+				"searchform.php"
+			],
+			[
+				"dk",
+				"lang/da_DK.po"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"pagin",
+				"inc/templates/template_paginate_links.php"
+			],
+			[
+				"js",
+				"js/scripts.js"
+			],
+			[
+				"template_paginate_links",
+				"inc/templates/template_paginate_links.php"
+			],
+			[
+				"archive",
+				"inc/templates/template_archive.php"
+			],
+			[
+				"template_hear",
+				"inc/templates/header/template_header.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"template_header_element_primary",
+				"inc/templates/header/template_header_element_primary.php"
+			],
+			[
+				"jquery",
+				"js/jquery.sidr.js"
+			],
+			[
+				"php",
+				"header.php"
+			],
+			[
+				"tum",
+				"tumblrTheme.html"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"home",
+				"home/index.php"
+			],
+			[
+				"ganha",
+				"ganhador/index.php"
+			],
+			[
+				"inser",
+				"modules/services/insertUser.php"
+			],
+			[
+				"getga",
+				"modules/services/getGamesFinalistas.php"
+			],
+			[
+				"fina",
+				"finalistas/index.php"
+			],
+			[
+				"getgames",
+				"modules/services/getGamesFinalistas.php"
+			],
+			[
+				"gale",
+				"galeria/index.php"
+			],
+			[
+				"ht",
+				"modules/html.php"
+			],
+			[
+				"htm",
+				"modules/html.php"
+			],
+			[
+				"getgae",
+				"modules/services/getGamesFinalistas.php"
+			],
+			[
+				"modules",
+				"modules/services/getGames.php"
+			],
+			[
+				"con",
+				"modules/conf/config.php"
+			],
+			[
+				"stye",
+				"assets/css/style.css"
+			],
+			[
+				".css",
+				"admin/css/style.css"
+			],
+			[
+				"m",
+				"nascidenovo/js/main.js"
+			],
+			[
+				"fron",
+				"wp-content/themes/goodfellas_theme/front-page.php"
+			],
+			[
+				"_lay",
+				"wp-content/themes/goodfellas_theme/scss/_layout.scss"
+			],
+			[
+				"billindex",
+				"wp-content/themes/billboard/index.php"
+			],
+			[
+				"_aw",
+				"wp-content/themes/goodfellas_theme/scss/_awards.scss"
+			],
+			[
+				"_ho",
+				"wp-content/themes/goodfellas_theme/scss/_home.scss"
+			],
+			[
+				"_con",
+				"wp-content/themes/goodfellas_theme/scss/_content.scss"
+			],
+			[
+				"_fo",
+				"wp-content/themes/goodfellas_theme/scss/_footer.scss"
+			],
+			[
+				"_wo",
+				"wp-content/themes/goodfellas_theme/scss/_works.scss"
+			],
+			[
+				"_he",
+				"wp-content/themes/goodfellas_theme/scss/_header.scss"
+			],
+			[
+				"_na",
+				"wp-content/themes/goodfellas_theme/scss/_nav.scss"
+			],
+			[
+				"_fn",
+				"wp-content/themes/goodfellas_theme/scss/_fonts.scss"
+			],
+			[
+				"_typography",
+				"wp-content/themes/goodfellas_theme/scss/_typography.scss"
+			],
+			[
+				"_ba",
+				"wp-content/themes/goodfellas_theme/scss/_base.scss"
+			],
+			[
+				"stysc",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"_content",
+				"wp-content/themes/goodfellas_theme/scss/_content.scss"
+			],
+			[
+				"styscss",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"_case",
+				"wp-content/themes/goodfellas_theme/scss/_cases.scss"
+			],
+			[
+				"-lay",
+				"wp-content/themes/goodfellas_theme/scss/_layout.scss"
+			],
+			[
+				"wor",
+				"wp-content/themes/goodfellas_theme/works.php"
+			],
+			[
+				"_awa",
+				"wp-content/themes/goodfellas_theme/scss/_awards.scss"
+			],
+			[
+				"cont",
+				"wp-content/themes/goodfellas_theme/content.php"
+			],
+			[
+				"_ca",
+				"wp-content/themes/goodfellas_theme/scss/_cases.scss"
+			],
+			[
+				"cases",
+				"wp-content/themes/goodfellas_theme/scss/_cases.scss"
+			],
+			[
+				"stylsc",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"_foo",
+				"wp-content/themes/goodfellas_theme/scss/_footer.scss"
+			],
+			[
+				"awa",
+				"wp-content/themes/goodfellas_theme/awards.php"
+			],
+			[
+				"lay",
+				"wp-content/themes/goodfellas_theme/scss/_layout.scss"
+			],
+			[
+				"stylscs",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"conten",
+				"wp-content/themes/goodfellas_theme/content.php"
+			],
+			[
+				"wok",
+				"wp-content/themes/goodfellas_theme/works.php"
+			],
+			[
+				"pack",
+				"wp-content/themes/goodfellas_theme/package.json"
+			],
+			[
+				"stylescs",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"_sty",
+				"wp-content/themes/goodfellas_theme/style.css"
+			],
+			[
+				"conta",
+				"wp-content/themes/goodfellas_theme/contact.php"
+			],
+			[
+				"_w",
+				"wp-content/themes/goodfellas_theme/scss/_works.scss"
+			],
+			[
+				"_",
+				"wp-content/themes/goodfellas_theme/scss/_mixins.scss"
+			],
+			[
+				"_mi",
+				"wp-admin/css/colors/_mixins.scss"
+			],
+			[
+				"_home",
+				"wp-content/themes/goodfellas_theme/scss/_home.scss"
+			],
+			[
+				"theme.js",
+				"wp-content/themes/goodfellas_theme/assets/theme.js"
+			],
+			[
+				"themejs",
+				"wp-admin/js/theme.js"
+			],
+			[
+				"_wor",
+				"wp-content/themes/goodfellas_theme/scss/_works.scss"
+			],
+			[
+				"works",
+				"wp-content/themes/goodfellas_theme/works.php"
+			],
+			[
+				"_work",
+				"wp-content/themes/goodfellas_theme/scss/_works.scss"
+			],
+			[
+				"wo",
+				"wp-content/themes/goodfellas_theme/works.php"
+			],
+			[
+				"work",
+				"wp-content/themes/goodfellas_theme/works.php"
+			],
+			[
+				"styscs",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"styscc",
+				"wp-content/themes/goodfellas_theme/.sass-cache/0542fe6507c7bed091779b66289d6e5e1ef6093c/style.scssc"
+			],
+			[
+				"stys",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"stycss",
+				"wp-content/themes/goodfellas_theme/style.css"
+			],
+			[
+				"gulfile",
+				"wp-content/themes/goodfellas_theme/gulpfile.js"
+			],
+			[
+				"_awar",
+				"wp-content/themes/goodfellas_theme/scss/pages/_awards.scss"
+			],
+			[
+				"goo",
+				"wp-content/themes/goodfellas_theme/goodfellas.php"
+			],
+			[
+				"content",
+				"wp-content/themes/goodfellas_theme/content-page.php"
+			],
+			[
+				"front",
+				"wp-content/themes/goodfellas_theme/front-page.php"
+			],
+			[
+				"page",
+				"wp-content/themes/goodfellas_theme/page.php"
+			],
+			[
+				"conte",
+				"wp-content/themes/goodfellas_theme/content.php"
+			],
+			[
+				"style.sc",
+				"wp-content/themes/goodfellas_theme/scss/style.scss"
+			],
+			[
+				"hom",
+				"wp-content/themes/goodfellas_theme/home.php"
+			],
+			[
+				"pages.scss",
+				"wp-content/themes/goodfellas_theme/scss/pages/_home.scss"
+			],
+			[
+				"fro",
+				"wp-content/themes/goodfellas_theme/front-page.php"
+			],
+			[
+				"ba",
+				"wp-content/themes/goodfellas_theme/scss/_base.scss"
+			],
+			[
+				"_base",
+				"wp-content/themes/goodfellas_theme/scss/_base.scss"
+			],
+			[
+				"_fot",
+				"wp-content/themes/goodfellas_theme/scss/_footer.scss"
+			],
+			[
+				"_header",
+				"wp-content/themes/goodfellas_theme/scss/_header.scss"
+			],
+			[
+				"mixi",
+				"wp-content/themes/goodfellas_theme/scss/_mixins.scss"
+			],
+			[
+				"footer",
+				"wp-content/themes/goodfellas_theme/footer.php"
+			],
+			[
+				"mainjs",
+				"wp-content/themes/goodfellas_theme/node_modules/gulp-git/test/main.js"
+			],
+			[
+				"_footer",
+				"wp-content/themes/goodfellas_theme/scss/_footer.scss"
+			],
+			[
+				"_heade",
+				"wp-content/themes/goodfellas_theme/scss/_header.scss"
+			],
+			[
+				"goodindex",
+				"wp-content/themes/goodfellas_theme/index.php"
+			],
+			[
+				"_foot",
+				"wp-content/themes/goodfellas_theme/scss/_footer.scss"
+			],
+			[
+				"goodfooter",
+				"wp-content/themes/goodfellas_theme/footer.php"
+			],
+			[
+				"index",
+				"wp-content/themes/goodfellas_theme/index.php"
+			],
+			[
+				"basescss",
+				"wp-content/themes/goodfellas_theme/scss/_base.scss"
+			],
+			[
+				"sing",
+				"wp-content/themes/goodfellas_theme/single.php"
+			],
+			[
+				"singe",
+				"wp-content/themes/goodfellas_theme/single.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}
